@@ -1,0 +1,3 @@
+python 3.12.2
+keyboard module
+-- to install the keyboard module do : > pip install keyboard 
