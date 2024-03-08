@@ -1,5 +1,6 @@
 # python3.12.2
 # 0key keylogger 
+# windows - linux - Macos
 
 
 import keyboard
