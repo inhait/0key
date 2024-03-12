@@ -5,8 +5,6 @@
 # github - gitlab
 # ------------------------------------
 
-# - 
-
 import keyboard
 log_file = "keystrokes.log"
 
